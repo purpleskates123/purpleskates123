@@ -1,6 +1,6 @@
-###🙋🏾‍♀️ Hi im Kaylee and I am currently a Computer Science Student with a focus on Cybersecurity 
+### 🙋🏾‍♀️ Hi im Kaylee and I am currently a Computer Science Student with a focus on Cybersecurity 
 
-##About Me👩🏽‍💻
+## About Me👩🏽‍💻
 
 -🪄I am a self-starter who loves learning from designing websites to learning new code skills
 -🌐I participated in multiple pitch competitions, where I taught myself how to design and develop websites that bring innovative ideas to life
