@@ -1,16 +1,13 @@
-## Hi there 👋
+###🙋🏾‍♀️ Hi im Kaylee and I am currently a Computer Science Student with a focus on Cybersecurity 
 
-<!--
-**purpleskates123/purpleskates123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About Me👩🏽‍💻
 
-Here are some ideas to get you started:
+-🪄I am a self-starter who loves learning from designing wedsites to learning new code skills
+-🌐I participated in multiple pitch competitions, where I taught myself how to design and develop websites that bring innovative ideas to life
+-🛼In my free time you can catch me reading books anything romcom, bowling, or skating with my friends 
+-🫱🏼‍🫲🏾I am hoping to gain knowledge in many aspects of the tech industry as well as make strong connections and build a distinguished network 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With ME💌
+
+-💼[LinkedIn](http://linkedin.com/in/kaylee-williams-a39014232)
+-👾 Email: kaylee.williams@sus.edu
